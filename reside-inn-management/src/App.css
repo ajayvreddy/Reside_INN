@@ -76,13 +76,8 @@ body {
 .hotel-name {
   font-size: 3.5rem;
   font-weight: 900;
-  background: linear-gradient(135deg, #2c3e50, #667eea, #764ba2);
-  background-size: 300% 300%;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-  animation: gradient-shift 4s ease-in-out infinite;
-  text-shadow: none;
+  color: #2c3e50;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
   letter-spacing: 0.05em;
   line-height: 1;
   margin-bottom: 0.5rem;
